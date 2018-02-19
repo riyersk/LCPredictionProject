@@ -1,0 +1,4 @@
+Logistic Regression for G3
+-0.3570764799999999
+[[38 37]
+ [28 56]]

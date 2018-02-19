@@ -1,0 +1,4 @@
+Logistic Regression for F2
+-0.3222939444684618
+[[424 353]
+ [  0   0]]

@@ -1,0 +1,4 @@
+Logistic Regression for G1
+-0.2338776972989286
+[[85 56]
+ [70 80]]

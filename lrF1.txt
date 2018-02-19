@@ -1,0 +1,4 @@
+Logistic Regression for F1
+-0.3067068848079153
+[[586 458]
+ [  0   0]]

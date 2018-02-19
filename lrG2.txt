@@ -1,0 +1,4 @@
+Logistic Regression for G2
+-0.3060859960552268
+[[64 53]
+ [43 63]]
